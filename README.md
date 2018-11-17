@@ -8,7 +8,7 @@ The program allows the player to specify the cards that she would like to select
 For example, in the following layout:
 	        1 2 3 4
         1	A S $ $
-        2 $ $ $ $
+        2 	$ $ $ $
         3	$ A $ $
         4	$ $ $ $
 All of the cards are face down indicated by $. The pairs of A which are face up and at coordinates (1,1) and (2,3). 
